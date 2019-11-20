@@ -5,7 +5,7 @@
 [moshuixin123 pcbeta](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1824016) and
 [darkhandz repo](https://github.com/darkhandz/XPS-9550-Mojave)
 
-# 耳机拔插(Other/ComboJack)
+### 耳机拔插(Other/ComboJack)
 
 它的作用：检测耳机拔插，修复耳机孔多合一下产生的一些问题，关于它的原理，请看[wmchris的教程](https://github.com/wmchris/DellXPS15-9550-OSX/blob/master/10.12/Post-Install/AD-Kexts/Audio/VerbStub_knnspeed/README.md)。
 
@@ -15,7 +15,7 @@
 
 看见`Enjoy!`的话，ComboJack就安装完成了，重启一下系统。
 
-# HDMI
+### HDMI
 开启HDMI和usbtypec等外接显示器
 
 在S/L/E, AppleGraphicsControl.kext/Contents/PlugIns/AppleGraphicsDevicePolicy.kext/Contents/Info.plist里ConfigMap下添加
